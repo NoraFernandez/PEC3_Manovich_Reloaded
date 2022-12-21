@@ -1,10 +1,10 @@
-### ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
-Autor: Nora Fernández
-
-Fecha: 21 de diciembre de 2022
+# ACTIVIDAD 3. Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 ![Gafas de Manovich](https://i.pinimg.com/originals/bc/7d/c4/bc7dc4dcd2ed2fe2f4af49ba8c81f7fe.jpg)
 
+Autor: Nora Fernández
+
+Fecha: 21 de diciembre de 2022
 ##  Planteamiento
 Nos acercamos al final de la asignatura "Cultura Digital" y estamos en el nivel 3 de Manovich. En esta ocasión se nos plantea un reto de análisis, cuyo principal tema es la **hibridación**, así que nos pondremos las gafas de Manovich para realizarlo.
 
