@@ -1,11 +1,10 @@
-# PEC3_Manovich_Reloaded
 ###  Recurso de aprendizaje de Cultura Digital
 
 Autor: Nora Fernández
 
 Fecha: 21 de diciembre de 2022
 
-![Gafas de Manovich](https://i.pinimg.com/originals/a0/80/e9/a080e9da277806c8b9151b1e8aa0021f.png)
+![Gafas de Manovich](https://i.pinimg.com/originals/bc/7d/c4/bc7dc4dcd2ed2fe2f4af49ba8c81f7fe.jpg)
 
 ##  Planteamiento
 
